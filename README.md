@@ -69,9 +69,11 @@ The enclosure is 3D printed and glued together. The build is functional, but not
 | <img src="media/photo_2.jpg" width="350"> | <img src="media/photo_4.jpg" width="350"> |
 | <img src="media/photo_3.jpg" width="350"> | <img src="media/photo_1.jpg" width="350"> |
 
-Alternative video link:
+Video file:
 
-[![Watch demo](media/preview.png)](media/audio_demo.mp4)
+<a href="media/audio_demo.mp4">
+  <img src="media/preview.png" alt="Watch demo" width="300">
+</a>
 
 ## Known Limitations
 
