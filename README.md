@@ -71,7 +71,7 @@ The enclosure is 3D printed and glued together. The build is functional, but not
 
 Alternative video link:
 
-[![Watch demo](media/preview.png)](media/demo.mp4)
+[![Watch demo](media/preview.png)](media/audio_demo.mp4)
 
 ## Known Limitations
 
