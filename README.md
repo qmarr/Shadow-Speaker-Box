@@ -6,6 +6,8 @@ The project was made as a simple personal gift: the user turns the cube on, pres
 
 The enclosure is 3D printed and glued together. The build is functional, but not very clean mechanically. Some parts are fixed with glue, so the internal assembly is not ideal and repairability is limited.
 
+![Audio cube demo](docs/media/demo.gif)
+
 ## Features
 
 - Plays one audio file from a microSD card
@@ -61,11 +63,15 @@ The enclosure is 3D printed and glued together. The build is functional, but not
 
 ### Demo
 
-![Audio cube demo](docs/media/demo.gif)
+
+| Front | Inside |
+|---|---|
+| <img src="media/photo_1.jpg" width="350"> | <img src="media/photo_2.jpg" width="350"> |
+| <img src="media/photo_3.jpg" width="350"> | <img src="media/photo_4.jpg" width="350"> |
 
 Alternative video link:
 
-[Watch demo video](docs/media/demo.mp4)
+[![Watch demo](media/preview.png)](media/demo.mp4)
 
 ## Known Limitations
 
