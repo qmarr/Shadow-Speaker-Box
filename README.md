@@ -6,7 +6,7 @@ The project was made as a simple personal gift: the user turns the cube on, pres
 
 The enclosure is 3D printed and glued together. The build is functional, but not very clean mechanically. Some parts are fixed with glue, so the internal assembly is not ideal and repairability is limited.
 
-![Audio cube demo](docs/media/demo.gif)
+![Audio cube demo](media/demo.gif)
 
 ## Features
 
