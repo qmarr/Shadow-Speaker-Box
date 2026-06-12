@@ -66,8 +66,8 @@ The enclosure is 3D printed and glued together. The build is functional, but not
 
 | Front | Inside |
 |---|---|
-| <img src="media/photo_1.jpg" width="350"> | <img src="media/photo_2.jpg" width="350"> |
-| <img src="media/photo_3.jpg" width="350"> | <img src="media/photo_4.jpg" width="350"> |
+| <img src="media/photo_2.jpg" width="350"> | <img src="media/photo_4.jpg" width="350"> |
+| <img src="media/photo_3.jpg" width="350"> | <img src="media/photo_1.jpg" width="350"> |
 
 Alternative video link:
 
