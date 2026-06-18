@@ -59,21 +59,24 @@ The enclosure is 3D printed and glued together. The build is functional, but not
 6. Press the top button once.
 7. The audio plays until the end.
 
-## Video
+
 
 ### Demo
-
 
 | Front | Inside |
 |---|---|
 | <img src="media/photo_2.jpg" width="350"> | <img src="media/photo_4.jpg" width="350"> |
 | <img src="media/photo_3.jpg" width="350"> | <img src="media/photo_1.jpg" width="350"> |
 
-Video file:
+## Video file:
 
 <a href="media/audio_demo.mp4">
   <img src="media/preview.png" alt="Watch demo" width="300">
 </a>
+
+## Wiring
+
+![Wiring](media/wiring.png)
 
 ## Known Limitations
 
